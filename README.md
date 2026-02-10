@@ -1,6 +1,6 @@
 # 🧑‍💼 Employee Database Management System (Flask)
 
-A simple **Employee Database Management System** built using **Flask (Python)** that allows users to perform basic **CRUD operations** such as adding, viewing, searching, and deleting employee records through a web interface.
+A simple **Employee Database Management System** built using **Flask (Python)** that allows users to perform basic **CRUD operations** (Create, Read, Update, Delete) such as adding, viewing, searching, and deleting employee records through a web interface.
 
 This project is ideal for **beginners learning Flask**, **college mini-projects**, and as a **foundation for database-backed web applications**.
 
@@ -70,7 +70,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 <p align="center">
   <img src="Screenshots/Database.png" width="700">
